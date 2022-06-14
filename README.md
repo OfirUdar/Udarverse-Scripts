@@ -1,4 +1,11 @@
 # Udarverse Scripts
+
+**Trailer Link - https://youtu.be/iB6OjXykV-M
+
+**Editor video Link - https://youtu.be/6XcdgeAV0fU
+
+
+
 Udarverse is an adventure game where you can explore the universe by unlocking areas.
 The player should collect resources by carving them and use these resources to unlock areas and keep progressing the game.
 The player has three items for progressing the game:
@@ -15,11 +22,11 @@ The universe includes multiple planets! You should explore and unlock areas ther
 
 Some technical information:
 
-This game is made with Unity Engine.
+This game is made with Unity Engine
 Programmed with C# using OOP and Design Patterns.
 For this game, we built an Editor Tool inside Unity which enable us to build the map easily. You are welcome to take a look at the video 🙂
 
-#It includes only the SCRIPTS because of personal and copyright reasons!
+**It includes only the SCRIPTS because of personal and copyright reasons!**
  
 BECOME FANS? 
 
