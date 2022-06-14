@@ -18,7 +18,8 @@ Some technical information:
 This game is made with Unity Engine.
 Programmed with C# using OOP and Design Patterns.
 For this game, we built an Editor Tool inside Unity which enable us to build the map easily. You are welcome to take a look at the video 🙂
-*It includes only the SCRIPTS because of personal and copyright reasons!*
+
+#It includes only the SCRIPTS because of personal and copyright reasons!
  
 BECOME FANS? 
 
