@@ -7,8 +7,9 @@
 ![image](https://user-images.githubusercontent.com/76158235/173888683-66c285e1-868d-45f8-8a43-ebfe7f27e0f3.png)
 ![Udarverse_Gameplay_CypressHit_Mobile](https://user-images.githubusercontent.com/76158235/173888713-ece67fdd-2cae-4c09-a3b0-dfa6ec794694.jpg)
 ![Udarverse_Gameplay_SkullHit](https://user-images.githubusercontent.com/76158235/173888725-22b13ff7-e8c0-4d05-a3f4-ed9a8b4498be.jpg)
-![Udarverse_Editor_Image](https://user-images.githubusercontent.com/76158235/173888740-24063870-c3c6-490b-9e60-ab8cfd9fc493.jpg)
 ![Udarverse_Gameplay_Teleport](https://user-images.githubusercontent.com/76158235/173888781-74e7af2e-11f4-4553-a67a-1f52348b3e6a.jpg)
+![Udarverse_Editor_Image](https://user-images.githubusercontent.com/76158235/173888740-24063870-c3c6-490b-9e60-ab8cfd9fc493.jpg)
+
 
 
 Udarverse is an adventure game where you can explore the universe by unlocking areas.
